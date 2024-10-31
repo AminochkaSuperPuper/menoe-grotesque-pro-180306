@@ -1,0 +1,61 @@
+html {
+    background: #83CDC0;
+    font-family: 'MenoeGrotesquePro';
+  }
+
+  body {
+    overflow-x: hidden;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.text {
+    font-family: var(Menoe-Grotesque-Pro-Italic);
+    width: 1440px;
+    text-align: center;
+    padding-top: 220px;
+    background-color: #83CDC0;
+}
+
+.first_screen {
+    height: 1120p;
+    width: 1803;
+    position: relative;
+    left: 50px;
+}
+
+.font-1 {
+    height: 172px;
+    width: 930px;
+    position: relative;
+    left: 230px;
+    bottom: 650px;
+}
+
+.font-2 {
+    height: 172px;
+    width: 930.6px;
+    position: relative;
+    left: 65px;
+    bottom: 761px;
+
+}
+
+  
+.font-3 {
+    height: 172px;
+    width: 930px;
+    position: relative;
+    bottom: 792px;
+    left: 394px;
+}
+
+
+.text-1 {
+    font-family: 'MenoeGrotesquePro';
+    height: 12px;
+    width: 12px;
+    position: relative;
+    font-size: 135px;
+}

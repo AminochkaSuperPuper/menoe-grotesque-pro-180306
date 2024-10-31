@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'MenoeGrotesquePro'; 
+    src: url(../fonts/Menoe-Grotesque-Pro.otf.ttf) format("opentype");
+}
+@font-face {
+    font-family: 'MenoeGrotesqueProItalic'; 
+    src: url(../fonts/Menoe-Grotesque-Pro-Italic.otf.ttf) format("opentype");
+}
